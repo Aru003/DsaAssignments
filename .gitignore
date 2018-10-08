@@ -27,6 +27,7 @@ glslogs/
 /bin/
 /build/
 /${java.io.tmpdir}/
+/out/
 
 *.bak
 *.ipr
